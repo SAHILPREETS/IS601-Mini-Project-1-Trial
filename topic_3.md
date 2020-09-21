@@ -63,6 +63,10 @@ Using this command we have a new branch feature that is based off the master bra
 
 ![](Images/IMG2.png)
 
+## Checkout
+
+The git checkout command lets you navigate between the branches created by git branch. 
+
 
 
 [Back To Topic List](README.md)
