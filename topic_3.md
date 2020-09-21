@@ -92,4 +92,22 @@ Git Pull allows the other to view the changes you have made to the repository th
 ```
 git pull 'remote_name' 'branch_name'
 ```
+
+## Remote Add / Remove / Show
+ 
+Remote Add:  The git remote add command takes two arguments:
+
+A unique remote name, for example, “remote_repo”
+
+A remote URL, which you can find on the Source sub-tab of your Git repo.
+
+Example: 
+
+```
+set a new remote
+
+git remote add “Remote name” git@ “URL”
+
+git remote -v
+```
 [Back To Topic List](README.md)
