@@ -57,6 +57,8 @@ Merging  is Git's way of putting together a united history again. The git merge 
 Example:- 
 We have a new branch feature that is based off the master branch. We now want to merge this feature branch into master.
 
+   ![](Images/Untitled.png)
+
 
 
 
