@@ -61,6 +61,7 @@ We have a new branch feature that is based off the master branch. We now want to
 
 Using this command we have a new branch feature that is based off the master branch. We now want to merge this feature branch into master.
 
+![](Images/IMG2.png)
 
 
 
