@@ -85,4 +85,11 @@ Before you push from local to the remote repository, you must make sure that all
  git push <repo name> <branch name>
 ```
 
+## Pull
+
+Git Pull allows the other to view the changes you have made to the repository that you are currently working on. 
+
+```
+git pull 'remote_name' 'branch_name'
+```
 [Back To Topic List](README.md)
