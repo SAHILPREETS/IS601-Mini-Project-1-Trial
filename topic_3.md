@@ -59,6 +59,8 @@ We have a new branch feature that is based off the master branch. We now want to
 
    ![](Images/Untitled.png)
 
+Using this command we have a new branch feature that is based off the master branch. We now want to merge this feature branch into master.
+
 
 
 
