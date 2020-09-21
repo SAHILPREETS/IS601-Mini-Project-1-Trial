@@ -141,5 +141,11 @@ It lets you see the changes that are stagged and the files that are not tracked 
 
 It does not show any data of the committed project history.
 
+```
+git status
+```
+
+![](Images/statuspng.png)
+
 
 [Back To Topic List](README.md)
