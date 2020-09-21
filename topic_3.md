@@ -110,4 +110,20 @@ git remote add “Remote name” git@ “URL”
 
 git remote -v
 ```
+
+ Remote Remove : It is used to remove the remote URL from your repository.
+
+The “git remote rm” command takes one argument:
+
+A remote name, for example, destination
+
+Example: 
+```
+git remote rm destination
+
+# Remove remote	
+
+$ git remote -v
+```
+
 [Back To Topic List](README.md)
