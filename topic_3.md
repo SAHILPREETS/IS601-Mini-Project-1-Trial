@@ -132,4 +132,6 @@ This output will contain a list of branches associated with the remote and also 
 
 Example:
 
+![](Images/img3.png)
+
 [Back To Topic List](README.md)
