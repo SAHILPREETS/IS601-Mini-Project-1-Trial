@@ -75,4 +75,10 @@ git checkout -b <branchname>
 git checkout <remotebranch> origin/<remotebranch> 
 ```
 
+## Push
+
+The git push command allows you to send the commits from your local branch in your local Git repository to the remote repository.
+
+
+
 [Back To Topic List](README.md)
