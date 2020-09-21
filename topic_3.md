@@ -85,6 +85,8 @@ Before you push from local to the remote repository, you must make sure that all
  git push <repo name> <branch name>
 ```
 
+![](Images/PUSH.PNG)
+
 ## Pull
 
 Git Pull allows the other to view the changes you have made to the repository that you are currently working on. 
@@ -92,6 +94,7 @@ Git Pull allows the other to view the changes you have made to the repository th
 ```
 git pull 'remote_name' 'branch_name'
 ```
+![](Images/PULL.PNG)
 
 ## Remote Add / Remove / Show
  
@@ -125,6 +128,7 @@ git remote rm destination
 
 $ git remote -v
 ```
+![](Images/REMOTE%20REMOVE.PNG)
 
 Remote Show: The show subcommand in git remote  gives detailed output on the configuration of a remote. 
 
