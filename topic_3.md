@@ -67,6 +67,12 @@ Using this command we have a new branch feature that is based off the master bra
 
 The git checkout command lets you navigate between the branches created by git branch. 
 
+```	
+ git checkout -b <branchname>  
 
+git checkout -b <branchname>  
+
+git checkout <remotebranch> origin/<remotebranch> 
+```
 
 [Back To Topic List](README.md)
